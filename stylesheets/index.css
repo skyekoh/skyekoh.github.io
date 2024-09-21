@@ -1,0 +1,14 @@
+
+#about {
+    margin-top: 5em;
+}
+
+.large-name {
+    font-size: 3.5rem;
+    margin-left: 3em;
+}
+
+.about-block {
+    display: flex;
+    margin: 2em auto;
+}

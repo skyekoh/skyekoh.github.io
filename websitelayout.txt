@@ -4,3 +4,14 @@ about me blurb
 projects
 CV download button
 CV (in the style that Kai / Yue have it) - seperate page
+
+List of projects:
+
+- Suitcase Handle
+tbog frame
+tbog brake
+380 gantry
+
+Co op projects:
+QA file organizer
+wind project dashboards.
